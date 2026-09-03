@@ -1,1 +1,1 @@
-# projeto-powerbi-tripleten
+# treinamento-powerbi-tripleten
